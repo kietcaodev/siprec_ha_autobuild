@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # This code is the property of BasebsPBX LLC Company
 # License: Proprietary
@@ -948,9 +947,3 @@ echo -e "*         after 30 seconds run the command: role           *"
 echo -e "************************************************************"
 sleep 20
 role
-
-
-
-
-
-
